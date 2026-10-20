@@ -1,6 +1,7 @@
 # Job-Application-Tracker
 ##About:
 A beginner-friendly Python project that helps job seekers organize and track their job applications.
+
 ##Features:
 1.Add job applications
 2.View all applications
@@ -9,11 +10,13 @@ A beginner-friendly Python project that helps job seekers organize and track the
 5.Delete application
 6.view job search summary
 7.store data using CSV files
+
 ##Technologies used:
 1.Python
 2.CSV
 3.File Handling
 4.Exception Handling
+
 ##How to run:
 1.Install python 3.
 2.Download or clone this repository.
