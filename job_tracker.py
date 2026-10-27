@@ -115,6 +115,7 @@ def main():
             show_summary()
         elif choice=="7":
             print("Thank you for using Job Application Tracker!")
+            break
         else:
             print("Invalid choice. Please enter a number from 1 to 7.")
 if __name__=="__main__":
